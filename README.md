@@ -1,3 +1,2 @@
 # Development-of-a-multiplex-TaqMan-qPCR-targeting-Clavibacter-michiganensis-virulence-related-genes
-Development of a multiplex TaqMan qPCR targeting Clavibacter michiganensis virulence-related genes from (Brochu et al. 2023)
-The R code presents statistical analyses done to analyse the effects of standard curves, genes, and tissues on the number of Cm copies g-1 using a linear mixed model.
+This document describes and allows to run the analysis conducted in the article "Development of a multiplex TaqMan qPCR targeting Clavibacter michiganensis virulence-related genes" from Brochu et al. 2023. In this study, we developed a specific and sensitive multiplex TaqMan qPCR assay to detect Cm and distinguish it from related bacterial species that affect tomato plants. The R code presents statistical analyses done to analyse the effects of standard curves, genes, and tissues on the number of Cm copies g-1 using a linear mixed model.
